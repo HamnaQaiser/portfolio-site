@@ -78,7 +78,7 @@ export const projects = [
       "/projects/portfolio.png",
     ],
     tech: ["React", "Tailwind"],
-    link: "https://portfolio-site-puce-psi.vercel.app/",
+    link: "https://portfolio-site-theta-liard.vercel.app/",
     github: "https://github.com/HamnaQaiser/portfolio-site",
     details: `
       <h3>Overview</h3>
