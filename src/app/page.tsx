@@ -26,7 +26,7 @@ export default function Home() {
         </p>
         
         <div className="mt-8 flex gap-4">
-          <a href="mailto:hamna@example.com" className="px-6 py-3 bg-indigo-600 text-white rounded-xl shadow hover:bg-indigo-700">
+          <a href="https://www.fiverr.com/s/dDd96L3" className="px-6 py-3 bg-indigo-600 text-white rounded-xl shadow hover:bg-indigo-700">
             Hire Me
           </a>
           <a href="/resume.pdf" className="px-6 py-3 border border-gray-300 rounded-xl hover:bg-gray-100">
