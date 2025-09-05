@@ -11,8 +11,8 @@ export const projects = [
       "/projects/aluminium.png"
     ],
     tech: ["Next.js", "Tailwind", "TypeScript"],
-    link: "https://saas-demo.vercel.app",
-    github: "https://github.com/HamnaQaiser/saas-demo",
+    link: "https://saas-landing-ruby.vercel.app/",
+    github: "https://github.com/HamnaQaiser/saas_landing",
     details: `
       <h3>Overview</h3>
       <p>
@@ -44,8 +44,8 @@ export const projects = [
       "/projects/aluminium.png",
     ],
     tech: ["React", "Tailwind", "Netlify"],
-    link: "https://your-netlify-link.com", 
-    github: "https://github.com/HamnaQaiser/aluminium-design",
+    link: "https://aluminium-design.vercel.app/", 
+    github: "https://github.com/HamnaQaiser/aluminium_design",
     details: `
       <h3>Overview</h3>
       <p>
@@ -78,8 +78,8 @@ export const projects = [
       "/projects/portfolio.png",
     ],
     tech: ["React", "Tailwind"],
-    link: "https://portfolio-demo.vercel.app",
-    github: "https://github.com/HamnaQaiser/services",
+    link: "https://portfolio-site-puce-psi.vercel.app/",
+    github: "https://github.com/HamnaQaiser/portfolio-site",
     details: `
       <h3>Overview</h3>
       <p>
